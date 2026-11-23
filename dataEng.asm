@@ -1,6 +1,4 @@
-; ============================================================================
-;                              D A T A
-; ============================================================================
+
 msg_nomem   db "Not enough free memory for MARIO.",13,10,"$"
 
 state_table dw StateTitle, StatePlaying, StatePaused, StateDying
