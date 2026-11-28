@@ -7,15 +7,10 @@ A 16-bit platform game written in x86 Assembly (NASM + DOSBox).
 
 ## Team
 
-Name: Awaiz ur Rehman
-Roll Number: 25F-3037
-Modules: M1, M4, M5, M7, M8, M9
-
-
-
-Name: Usman Habib
-Roll Number: 25F-6503
-Modules: M2, M3, M6, M10, M11, M12
+| Name | Roll Number | Modules |
+|---|---|---|
+| Usman Habib | 25F-6503 | (modules, same as in the report) |
+| Awaiz ur Rehman | 25F-3037 | (modules, same as in the report) |
 
 ## Build and run
 Requirements: NASM and DOSBox 0.74-3 or later.
