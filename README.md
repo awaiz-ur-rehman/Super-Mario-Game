@@ -9,8 +9,8 @@ A 16-bit platform game written in x86 Assembly (NASM + DOSBox).
 
 | Name | Roll Number | Modules |
 |---|---|---|
-| Usman Habib | 25F-6503 | (modules, same as in the report) |
-| Awaiz ur Rehman | 25F-3037 | (modules, same as in the report) |
+| Usman Habib | 25F-6503 | M2, M3, M6, M10, M11, M12 |
+| Awaiz ur Rehman | 25F-3037 | M1, M4, M5, M7, M8, M9 |
 
 ## Build and run
 Requirements: NASM and DOSBox 0.74-3 or later.
